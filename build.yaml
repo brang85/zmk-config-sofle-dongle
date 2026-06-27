@@ -1,6 +1,6 @@
 include:
-  # The central Raytac engineering dongle brain (Fixed Board Name)
-  - board: mdbt50q_rx
+  # The central Raytac engineering dongle brain (Fixed Native Hex Target)
+  - board: nrf52840dk_nrf52840
     shield: mdbt50q_dongle
     snippet: studio-rpc-usb-uart
 
