@@ -1,0 +1,4 @@
+config SHIELD_SOFLE_DONGLE
+    def_config_macro = "sofle_dongle"
+    bool
+    default y
